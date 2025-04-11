@@ -58,12 +58,13 @@ I was solely responsible for designing and developing the backend logic and REST
 
 | Page              | Screenshot Path |
 |-------------------|------------------|
-| Home Page         | ![Home](../Car-Sharing-System/frontend/public/screenshots/homepage.png) |
-| Register Page     | ![Register](../Car-Sharing-System/frontend/public/screenshots/register_page.png) |
-| Login Page        | ![Login](../Car-Sharing-System/frontend/public/screenshots/login_page.png) |
-| Contact Page      | ![Contact](../Car-Sharing-System/frontend/public/screenshots/contact_page.png) |
-| Admin Dashboard   | ![Admin](../Car-Sharing-System/frontend/public/screenshots/admin_dashboard.png) |
-| Customer Dashboard| ![User](../Car-Sharing-System/frontend/public/screenshots/customer_dashboard.png) |
+| Home Page         | ![Home](frontend/Resources/screenshots/homepage.png) |
+| Register Page     | ![Register Page](frontend/Resources/screenshots/register_page.png) |
+| Login Page        | ![Login Page](frontend/Resources/screenshots/login_page.png) |
+| Contact Page      | ![Contact Page](frontend/Resources/screenshots/contact_page.png)|
+| Admin Dashboard   | ![Customer Dashboard](frontend/Resources/screenshots/customer_dashboard.png)|
+| Customer Dashboard| ![Admin Dashboard](frontend/Resources/screenshots/admin_dashboard.png)|
+| Profile Page      | ![Profile Page](frontend/Resources/screenshots/profile_page.png)|
 
 ---
 
