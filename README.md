@@ -20,6 +20,9 @@
 - Built as part of a team (handled the complete backend)
 - Clean APIs and proper backend architecture
 
+### 🧑‍💻 Car Sharing System – Backend Showcase  
+🔗 [Read More](./car-sharing-backend-showcase.md)
+
 ---
 
 
