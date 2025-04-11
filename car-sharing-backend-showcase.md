@@ -52,22 +52,6 @@ I was solely responsible for designing and developing the backend logic and REST
 
 ---
 
-## 📸 Screenshots
-
-> These show how the backend powers the UI built by the frontend dev
-
-| Page              | Screenshot Path |
-|-------------------|------------------|
-| Home Page         | ![Home](frontend/Resources/screenshots/homepage.png) |
-| Register Page     | ![Register Page](frontend/Resources/screenshots/register_page.png) |
-| Login Page        | ![Login Page](frontend/Resources/screenshots/login_page.png) |
-| Contact Page      | ![Contact Page](frontend/Resources/screenshots/contact_page.png)|
-| Admin Dashboard   | ![Customer Dashboard](frontend/Resources/screenshots/customer_dashboard.png)|
-| Customer Dashboard| ![Admin Dashboard](frontend/Resources/screenshots/admin_dashboard.png)|
-| Profile Page      | ![Profile Page](frontend/Resources/screenshots/profile_page.png)|
-
----
-
 ## 📂 Project Structure
 
 ```bash
